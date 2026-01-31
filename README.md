@@ -1,6 +1,4 @@
-
-# Agentic AI for Demand-Aware Food Service Operations  
-**Powered by IBM watsonx Orchestrate**
+# AI-powered Food Demand Forcasting and Redistribution using IBM watsonx Orchestrate
 
 ## Overview
 
@@ -247,4 +245,5 @@ ServeWell:
 ServeWell demonstrates how **agentic AI**, coordinated using **IBM watsonx Orchestrate**, can transform uncertain daily signals into **coordinated, responsible, and impactful real-world actions**.
 
 By using multi-agent orchestration, ServeWell reduces food waste, prevents shortages, and enables resilient food-service operations—especially during crises.
+
 
