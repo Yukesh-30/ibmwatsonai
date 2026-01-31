@@ -2,12 +2,10 @@
 
 ## Overview
 Food wastage is a major problem in daily life. While many people suffer from hunger, a large amount of food is wasted on the other side.
-
-In cloud kitchens, catering services, and restaurants, food producers often do not have a clear understanding of customer demand. Because of this, they sometimes prepare excess food or insufficient food.
-
-Most of the time, they also lack proper knowledge about what food is being wasted, how much is wasted, and why it is wasted. This leads to poor planning, financial loss, and increased food wastage.
+In cloud kitchens, catering services, and restaurants, food producers often do not have a clear understanding of customer demand. Because of this, they sometimes prepare excess food or insufficient food.Most of the time, they also lack proper knowledge about what food is being wasted, how much is wasted, and why it is wasted. This leads to poor planning, financial loss, and increased food wastage.
 
 Our solution ServeWell handels this particular problem,
+
 ServeWell is an **agentic AI orchestration system** designed to help **large-scale kitchens, welfare canteens, and restaurants** make better daily operational decisions.
 
 Instead of relying on guesswork or isolated predictions, ServeWell coordinates **multiple specialized AI agents** to transform daily signals into **actionable plans** for food preparation, procurement, redistribution, and crisis response.
@@ -251,6 +249,7 @@ ServeWell:
 ServeWell demonstrates how **agentic AI**, coordinated using **IBM watsonx Orchestrate**, can transform uncertain daily signals into **coordinated, responsible, and impactful real-world actions**.
 
 By using multi-agent orchestration, ServeWell reduces food waste, prevents shortages, and enables resilient food-service operations—especially during crises.
+
 
 
 
