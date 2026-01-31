@@ -1,6 +1,8 @@
 
-### Agentic AI for Demand-Aware Food Service Operations  
+# Agentic AI for Demand-Aware Food Service Operations  
 **Powered by IBM watsonx Orchestrate**
+
+## Overview
 
 ServeWell is an **agentic AI orchestration system** designed to help **large-scale kitchens, welfare canteens, and restaurants** make better daily operational decisions.
 
@@ -21,9 +23,9 @@ Food service operations that serve communities at scale face daily uncertainty:
 - Crisis scenarios are handled manually and inconsistently
 
 Most existing systems either:
-- stop at **forecasting**, or
-- apply **static rules**, or
-- depend heavily on human intuition
+- Stop at **forecasting**, or
+- Apply **static rules**, or
+- Depend heavily on human intuition
 
 They do **not** coordinate decisions across preparation, procurement, redistribution, and crisis management.
 
@@ -41,7 +43,7 @@ At a high level:
 
 ---
 
-## Agentic Architecture (Core Design)
+## Agentic Architecture Core Design
 
 ServeWell is implemented as a **multi-agent system** using IBM watsonx Orchestrate as the **control plane**.
 
@@ -245,3 +247,4 @@ ServeWell:
 ServeWell demonstrates how **agentic AI**, coordinated using **IBM watsonx Orchestrate**, can transform uncertain daily signals into **coordinated, responsible, and impactful real-world actions**.
 
 By using multi-agent orchestration, ServeWell reduces food waste, prevents shortages, and enables resilient food-service operations—especially during crises.
+
