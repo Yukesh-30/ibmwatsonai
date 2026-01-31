@@ -1,0 +1,57 @@
+//For LOGINPAge
+
+{
+    email:dshjgsdhjg@gamil.com,
+    password :jasdgvhjas,
+    role : government,
+}
+
+ //// wastage (Gorvenment Dasboard)
+    { name: "Jan", wastage: 65, target: 80 },
+    { name: "Feb", wastage: 59, target: 75 },
+      { name: "Mar", wastage: 45, target: 70 },
+      { name: "Apr", wastage: 30, target: 65 },
+      { name: "May", wastage: 25, target: 60 },
+      { name: "Jun", wastage: 20, target: 55 },
+      { name: "Jul", wastage: 15, target: 50 },
+
+
+
+    // Food fall prediction data
+      { name: "Mon", actual: 120, predicted: 130 },
+      { name: "Tue", actual: 150, predicted: 145 },
+      { name: "Wed", actual: 110, predicted: 115 },
+      { name: "Thu", actual: 90, predicted: 95 },
+      { name: "Fri", actual: 160, predicted: 155 },
+      { name: "Sat", actual: 180, predicted: 175 },
+      { name: "Sun", actual: 140, predicted: 145 },
+   
+    
+
+    // Alerts
+      {
+        id: 1,
+        type: "danger",
+        title: "Rice expiring soon",
+        message: "25kg of rice will expire in 2 days. Consider redistribution.",
+        time: "2 hours ago",
+      },
+      {
+        id: 2,
+        type: "warning",
+        title: "Vegetables low in stock",
+        message: "Vegetable inventory is below threshold. Consider restocking.",
+        time: "5 hours ago",
+      },
+      {
+        id: 3,
+        type: "info",
+        title: "High demand predicted",
+        message: "AI predicts 20% higher demand tomorrow due to local event.",
+        time: "1 day ago",
+      }
+      
+
+///Demand forecasting page
+
+
